@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '91nantong@gmail.com'
+    'ceshi1957@gmail.com'
 ];
 
 var urls=[
@@ -51,9 +51,11 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://swagccom.github.io',
+        'https://swagc.pages.dev/',
+        'https://swagc.netlify.app/',
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://swagc.net',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
