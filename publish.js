@@ -40,7 +40,7 @@ var urls=[
 	'ecbyytaf.cc',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://swagc.com";
 
 var newestUrls = [];
 
@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'https://swagccom.github.io',
 ];
 var foreverUrls = [
     'https://91nt.net',JumpPage
@@ -128,7 +128,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问男同网'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问swagc'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
