@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://swagccom.github.io',
+	'https://swagc.github.io',
         'https://swagc.pages.dev/',
         'https://swagc.netlify.app/',
 ];
