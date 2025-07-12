@@ -40,7 +40,7 @@ var urls=[
 	'ecbyytaf.cc',
 ];
                                                                                                                   
-var JumpPage="https://swagc.com";
+var JumpPage="https://swagc.cc";
 
 var newestUrls = [];
 
