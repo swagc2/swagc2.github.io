@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'ecbyytaf.cc',
+	'swagc.cc',
 ];
                                                                                                                   
-var JumpPage="https://swagc.cc";
+var JumpPage="https://swagc.com";
 
 var newestUrls = [];
 
